@@ -1,0 +1,45 @@
+{
+	"data": [{
+		"date": "1/17/2016",
+		"botid": "flowershop@mavenir.com",
+		"user": "+19545520000",
+		"sessionid": "123123123123",
+		"contentType": [
+			"RichCard", "Message"
+		],
+		"price": [
+			"1111111111", "22222222"
+		]
+		"direction": [
+			"A2P", "P2A"
+		]
+	},{
+		"date": "1/17/2016",
+		"botid": "flowershop@mavenir.com",
+		"user": "+19545520001",
+		"sessionid": "1231231234444",
+		"contentType": [
+			"RichCard", "Message"
+		],
+		"price": [
+			"1111111111", "22222222"
+		]
+		"direction": [
+			"A2P", "P2A"
+		]
+	}, {
+		"date": "1/17/2016",
+		"botid": "triviaking@mavenir.com",
+		"user": "+19545520001",
+		"sessionid": "123123125555",
+		"contentType": [
+			"RichCard", "Message"
+		],
+		"price": [
+			"1111111111", "22222222"
+		]
+		"direction": [
+			"A2P", "P2A"
+		]
+	}]
+}
